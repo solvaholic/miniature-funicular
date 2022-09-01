@@ -1,0 +1,10 @@
+title: Free Shitter Party
+logo:
+description: Keep your laws off my poop!
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
