@@ -1,0 +1,4 @@
+.git*
+.ssgignore
+bin
+site
